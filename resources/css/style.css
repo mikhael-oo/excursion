@@ -1,0 +1,39 @@
+html {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+h1 {
+    color: white;
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.heading-title {
+    font-size: 50px;
+}
+
+.main-body-head {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.main-body-text {
+    color: gray;
+    font-size: 21px;
+}
+
+.foot {
+    text-align: right;
+    color: gray;
+}
+
+.camp-image {
+    margin-bottom: 25px;
+}
+
+
